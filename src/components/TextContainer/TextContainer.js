@@ -11,9 +11,6 @@ const TextContainer = ({ users }) => (
 				Kudrat Realtime Anonymous Chat Application <span role="img" aria-label="emoji" />
 			</h1>
 			<h2>
-				Created by Angad Sudesh Srivastav and Chirag Mathur <span role="img" aria-label="emoji" />
-			</h2>
-			<h2>
 				Because freedom of expression is not a privilege but a right.<span role="img" aria-label="emoji">
 					🗣
 				</span>
